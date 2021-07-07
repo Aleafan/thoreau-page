@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background: #E8F8F5;
+  }
+#main {
+    padding: 10px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.3rem;
+}
+#title {
+    font-style: italic;
+    text-decoration: underline;
+}
+h2 {
+    font-size: 20px;
+    font-weight: normal;
+}
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+#img-div {
+    margin: 0;
+}
+#tribute-info {
+    text-align: justify;
+}
+h3 {
+    text-align: center;
+}
+footer {
+    margin: 0 auto;
+    text-align: left;
+    font-weight: bold;
+}
+a:visited {
+    color: #74638f;
+}
